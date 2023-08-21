@@ -1,0 +1,2190 @@
+{
+  "people": {
+    "32pnrgZKVzS69iufKsXd": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691222060236,
+      "name": "Charan",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "BwBlgcFHiNMnrGIGEarS": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691647500000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "JpPGzJRmIlaUsP4JDCWH": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691561100000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "MHrAP0GojQDL6lxJ9rxM": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "XVKsDytOHaHAL3vC1moy": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "Z1qmB6pw11DJ29pAfsjL": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "jm0Smnm1YcFEt1FFwDYa": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690958400000,
+            "out": 1690974000000,
+            "__collections__": {}
+          },
+          "oj7jDBmrGeDp1eatm7zJ": {
+            "date": "2023-08-01",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "uTC1v9HtTHXRBF6BEZUX": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "uYQiTn47tLprFOLIgxZC": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691218200000,
+            "out": 1691247600000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "qSxmHw1vD88XvYGrRxe4": {
+            "month_year": "08-2023",
+            "leave": 0,
+            "absent": 5,
+            "last_present_on": "2023-08-10",
+            "present": 4,
+            "total_mins_worked_this_month": 1820,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "55GLbw9l7XwsHMwgKPgJ": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289692/people%20images/v9yx4wlihi00kmorc5ye.jpg",
+      "createdTimestamp": 1691221758511,
+      "name": "Renuka",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0mo0Ts49PULO6M4kCx9H": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691558760000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "7Xdt9oIr7bdmwGOpQ57s": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691215440000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "9WtEhvh4ppVXg4sHpsB7": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "out": 1691155800000,
+            "in": 1691127360000,
+            "__collections__": {}
+          },
+          "Akh7ofYbCuoVwM3PaQG9": {
+            "date": "2023-08-01",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "BZi9et43tv8nWxvlD751": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691818920000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "CybR0Ly3xdFstocH0J5y": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954260000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "L5qmNovN3JW78hfzzveY": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691732280000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "Tj3Io2q1JUwJxB4no880": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472840000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "dfgaAT3KA4Ly7gMZyM3D": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691040240000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "iVKnKHUUyG7aNH1ruNZc": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691386260000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "p2bjuWqFJmfzwUUDQuzu": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691654580000,
+            "out": 1691674200000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "6hMwzqouxZ02k4lmyGP3": {
+            "leave": 0,
+            "absent": 1,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-12",
+            "present": 10,
+            "total_mins_worked_this_month": 5811,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "5pcuCgeEoH7Janv6V9FJ": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289610/people%20images/laqp0mdv025g7i2murud.jpg",
+      "createdTimestamp": 1691225636576,
+      "name": "Archan",
+      "designation": "",
+      "__collections__": {
+        "attendance": {
+          "7nR2OgcShaRl42g1XnpG": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "IWAiltUcsnzE3fctVpRv": {
+            "date": "2023-08-12",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "OgfHM6MgWwk35IGsMYkM": {
+            "date": "2023-08-01",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "XuANbipQpaCtWGzWSLHG": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "YzETigfJ8ZU9hS2PUHU5": {
+            "date": "2023-08-10",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "m7e4euD93abdnaVmQSky": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "oxcHuqevSYWhYnd58j0n": {
+            "date": "2023-08-09",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "p2Dq7a3IxSZd8AkPENXI": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "pbgWpW2NEMDrUBaJCcu4": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "uLEPsF9wnNgdXQ5NRmek": {
+            "date": "2023-08-11",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "z2ZyIAv31B8HpxOAqdWk": {
+            "date": "2023-08-05",
+            "type": "absent",
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "Vih6hS98KGQzMS9ubcsA": {
+            "total_mins_worked_this_month": 0,
+            "last_present_on": "2023-08-01",
+            "leave": 0,
+            "month_year": "08-2023",
+            "present": 0,
+            "absent": 11,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "6HhecptoOsAfKHff9C2Y": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289498/people%20images/o0g1ajzwlbwegvgtmw1k.jpg",
+      "createdTimestamp": 1691221775990,
+      "name": "Keerthi",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "3RsGPbzAiidqrQH6OxbC": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "8gU9COem4CBrlNrRPta6": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213040000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "AwHjOIHyHB0dlfoJvoCp": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "DWoIAXAgOvldNUqBirzB": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954260000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "FJTM5ih4MdEy1E6EowoX": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691126640000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "Kqko02OFIe8hHXaix2DG": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691822520000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "SK2aO6hhu30tm22cBiQC": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691040240000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "ZvcO67xVb0M5GyXMDijM": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691645160000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "bOkBnkNJVAHVzxBEbI21": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867620000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "inOVqktAJkjxLGp8oOfA": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691731740000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "qwoZKcCVtOh7596tQzrt": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691558760000,
+            "out": 1691587800000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "XtQZ3Ku3EIY6z681Ms5B": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 2,
+            "last_present_on": "2023-08-12",
+            "present": 10,
+            "total_mins_worked_this_month": 5548,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "7o4G5bq701jLbPfMVfzb": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691222050644,
+      "name": "Nagendra",
+      "designation": "",
+      "__collections__": {}
+    },
+    "9SQbACsUn0J4AFE3s0Zr": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691221928684,
+      "name": "Shiva",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "28TFXxG2YKxvOZOwW0b7": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954260000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "4livvQG9raX31kb0drXc": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "5hShS69HDT0aGkS0n2r7": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472300000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "7xkZh028evO0A2tQairN": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127000000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "FL3Xa652xoywCgbHBFbm": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691211600000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "R3tu3LmxpmUGppapIltt": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557260000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "UpJ5FZe04UCPXYpnVGNh": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867800000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "fkpkptVSS4dzGgjY8DCJ": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691652900000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "jclP58SVSFLdTNQrk7CI": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691389500000,
+            "out": 1691420400000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "tCaCS1EHQ6d2LFIYstZv": {
+            "leave": 0,
+            "absent": 1,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-10",
+            "present": 8,
+            "total_mins_worked_this_month": 4443,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "9xMZCT0tl2YX0m3jBAHy": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691221897252,
+      "name": "Swapna",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "2XX9HjReGZkjlPHJue0S": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691646000000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "CAMCrQyo3CurffQBkVJI": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "EKYKZIrVukTtREKuVjiI": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954800000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "GNjzLuoU1aYPaibDzJpS": {
+            "date": "2023-08-05",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "LMeCtuYDh3iPREDcVUNK": {
+            "date": "2023-08-08",
+            "in": 1691472600000,
+            "markedByAdmin": true,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "QaVaiQoDlm5wTlimRnyU": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867800000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "XYXtgkhZyVUIdZdvS1y0": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691385300000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "fLtJppvUzNDVe3HdVI23": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691559000000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "fbsV4pmWFfNxeytqWrAn": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691041020000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "nrHMdIzEJil1bLR6MtZg": {
+            "date": "2023-08-12",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "o9hdd3fGv9700zbgPYzt": {
+            "date": "2023-08-11",
+            "type": "absent",
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "RxbqSUNm9hXhc0vTRefn": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-08",
+            "total_mins_worked_this_month": 3348,
+            "present": 7,
+            "absent": 4,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "AGgzh2L6umbmC88s9NgB": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691222106202,
+      "name": "Vinay",
+      "designation": "",
+      "__collections__": {}
+    },
+    "Et5OGgWYXMdaM2HcTk94": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289584/people%20images/h2mu7ozh1iayw001v9zw.jpg",
+      "createdTimestamp": 1691221814310,
+      "name": "Yadamma",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "643uqfpcjZlEceHFoqnj": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213400000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "7IUDXKPaWhRApFhNQpqh": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691645040000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "8YhtFpXZDCrocD2iibva": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691040300000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "Dv2yu8DpwRCQSKVG5zqA": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867500000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "P4y4Qf3lxWxO4GhX0Lld": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "out": 1691760600000,
+            "in": 1691731560000,
+            "__collections__": {}
+          },
+          "VEblrI7TXLNj5RAOWVqU": {
+            "date": "2023-08-12",
+            "in": 1691818200000,
+            "markedByAdmin": true,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "cqG9jNfK84UKi1HzHwPU": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690953900000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "l7WndNNXpxJmn2X1Vvpv": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691140800000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "mx8LtfQsC8ofxbTYzGWS": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691558880000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "tXRjGzxa9MrBhgvypqSE": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472480000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "z5Pk31nwtogUjVoHXbMt": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691386500000,
+            "out": 1691415000000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "DdLC8qlHhLm5EmiTwQSb": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-11",
+            "present": 11,
+            "total_mins_worked_this_month": 5074,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "ICdAN4dR3qYsMTtK4r94": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691221677649,
+      "name": "Arunamma",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "53RRoHg5J88NujteBKFj": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691818620000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "7IGRWgtWuYjPLyA699q7": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691569800000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "EDJMPIHDo2jp698TiTIR": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691644800000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "FKUZ6Fj4lz0GCYgz54qc": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213580000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "Tlu1xy1bo7j8U0yP0ope": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472900000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "VBvFtcWYWJIB43d798HT": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691387400000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "ZFJZozsZzDIEP51sGE5y": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691732940000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "coCMLMnAufHXcyh2Cxfs": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954440000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "d0BCq7ExsxMCoyERuAYZ": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691040240000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "kpJjh73nPfHy2GoknzOb": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690869300000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "tyETsoxYgsgMchlmz9K7": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127300000,
+            "out": 1691155800000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "X5HvX0rvmiOCHtDuqBxL": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-12",
+            "present": 11,
+            "total_mins_worked_this_month": 5028,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "InCyz8Nu3KXsA8OFpyBw": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289610/people%20images/laqp0mdv025g7i2murud.jpg",
+      "createdTimestamp": 1691222022703,
+      "name": "Eshwar",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "2jLwRqkgLRcKHqYOu7Pf": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690864200000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "BqbLzlwMygWaEcaFwpG6": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691123400000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "GcET7EvXehMtVPwS3s1q": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691555400000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "gzXaZ4K8rkPOf5ieGt2p": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691210400000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "kDX8jygZIjo69IKuUwgo": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691383200000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "mD7DNDfu6Hy2nCvHFNrp": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691037000000,
+            "out": 1691074800000,
+            "__collections__": {}
+          },
+          "vuGlw4EreWUavb2TULw3": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690950600000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "wh9KMRQi4WqY0v3kCxVo": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691641800000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "zns9Mc6S3GXmzuoa2GCs": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691469000000,
+            "out": 1691506800000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "scrwA6UcGLqFqr0CoEll": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-10",
+            "present": 9,
+            "total_mins_worked_this_month": 5650,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "JRaYWne6Lw46lnfeLUWD": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691221880885,
+      "name": "Shravanthi",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "25ukmX6KvyJnE9guVnGH": {
+            "date": "2023-08-12",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "3E4FRzxg1KD5J75D4abB": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "6O0DcZDhcTgmT2KwIs1Q": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867380000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "7VY1q3mM25DkJQvfSDoV": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "GrLJkENEVm5Dx8TQIBkN": {
+            "date": "2023-08-05",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "HDb2y173NNb8og5S0NWK": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "QDLdom9NZLyRiDrbIUpT": {
+            "date": "2023-08-11",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "Sk3x9gxOPA19s6dQZQFn": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "gvwYoVgbdd3Zc07rric9": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "nY9WX2weJKkFPcENT8ex": {
+            "date": "2023-08-10",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "xqEyY0EYR1JnwVoj2Xsl": {
+            "date": "2023-08-09",
+            "type": "absent",
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "iqPcEhl8vKh6r3NSZze9": {
+            "last_present_on": "2023-08-01",
+            "leave": 0,
+            "month_year": "08-2023",
+            "present": 1,
+            "total_mins_worked_this_month": 487,
+            "absent": 10,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "KRBVSMesUDaip0szbpqQ": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691221791363,
+      "name": "Mounika",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "E3REOI096uY7xuaI9q38": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691211600000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "RLwcRZobiDwpAlymu2a6": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691125500000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "byNPtTn7VM1bUFhcMoGu": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690953300000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "grEe7c4VAe1WbmpPFgpP": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690867380000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "hvhYVgC9PT0GYFYVRk7S": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557800000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "lIM6QpmWBfAZOxOu98rq": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "lIwScM5bZqwcjGBoFtJo": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691731800000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "lvs5K2BkxKcyRar1OwgG": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "pDKoioWsoGB8bN2Kaq6h": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691818200000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "sS0pMetURPvsHGq20E27": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691645160000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "xiQOU5QCs9tzJoRVjT1s": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691039700000,
+            "out": 1691069400000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "U276oOqK0QTvSgZC6AjN": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 2,
+            "last_present_on": "2023-08-12",
+            "present": 9,
+            "total_mins_worked_this_month": 5636,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "RV72W0Yx53gc6akC9xl5": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289556/people%20images/zcjt8sgfwidfw36wderi.jpg",
+      "createdTimestamp": 1691222035413,
+      "name": "Hanuman ji",
+      "designation": "",
+      "__collections__": {
+        "attendance": {
+          "IoMZCHBW7LL9PFsNaqSz": {
+            "date": "2023-08-03",
+            "in": 1691033400000,
+            "markedByAdmin": true,
+            "out": 1691062200000,
+            "__collections__": {}
+          },
+          "aJetpsTGEFTDKsAQcKA5": {
+            "date": "2023-08-01",
+            "in": 1690860600000,
+            "markedByAdmin": true,
+            "out": 1690889400000,
+            "__collections__": {}
+          },
+          "cWwKH61OpamcUolmc5sS": {
+            "date": "2023-08-02",
+            "in": 1690947000000,
+            "markedByAdmin": true,
+            "out": 1690975800000,
+            "__collections__": {}
+          },
+          "igi9iULkd0c1Tes5DNr1": {
+            "date": "2023-08-05",
+            "in": 1691206200000,
+            "markedByAdmin": true,
+            "out": 1691235000000,
+            "__collections__": {}
+          },
+          "jzEHIP8ZyKQe9PVQViTU": {
+            "date": "2023-08-04",
+            "in": 1691119800000,
+            "markedByAdmin": true,
+            "out": 1691148600000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "fmFhUpKtMq1KbWN09wVX": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-05",
+            "total_mins_worked_this_month": 2400,
+            "present": 5,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "TvZT4jRrDdbtdorwUCW7": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289498/people%20images/o0g1ajzwlbwegvgtmw1k.jpg",
+      "createdTimestamp": 1691222011709,
+      "name": "Lokesh",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0qtfYB17RIFpMjNIRZ2l": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690866600000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "2OE7uclLwzEVkDwUrPOk": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691559600000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "FdP992D2Uwk9PrLktFhv": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954200000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "I5CqusWwWFXDdOuQg4pZ": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691644200000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "XqOv9lwtRXe1R3OXHzD8": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691389200000,
+            "out": 1691377200000,
+            "__collections__": {}
+          },
+          "azDbHs4RQ707SQsA9YxZ": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691040600000,
+            "out": 1691074800000,
+            "__collections__": {}
+          },
+          "rhHEiSTvLdIKD9SRtWqV": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213400000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "z9KJVfy5CsdsQSmdeU6X": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127000000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "zHznx46dTff5eK8z09BL": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "out": 1691506800000,
+            "in": 1691473200000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "eSDLv7PPSh2ZvUbVdBTl": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-10",
+            "present": 9,
+            "total_mins_worked_this_month": 4780,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "VgYqMSVRMtBUTECDXu0w": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289670/people%20images/qlfpixh0ammi9bw8orsm.jpg",
+      "createdTimestamp": 1691221832731,
+      "name": "Sandhya",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "2aGCGptYIOF2Ipk60Lxd": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690868160000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "5hT9QGsw6VmyJOwU5Pia": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691820300000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "U4uuJ4SQu4e8qBhIXzTm": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691473800000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "UCazxduan2xrgr0tDiXK": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691386800000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "VVvxSywecxNXbycgZ46n": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691646180000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "XqJde3B6mqehX0ZNwj0U": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691560200000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "bJf57GQi29aGfZaioqwe": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691731800000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "gV43eR4XqJAUI7skMm8S": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690955280000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "moJYbhf8nYQE13mvKNDJ": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "raL4XNYWQVUQ3zZu7ezL": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127360000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "yf2mBkzry5iLLGVFHibm": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691214540000,
+            "out": 1691242200000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "N1tNaSnbDixRlUGd2F4j": {
+            "leave": 0,
+            "absent": 1,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-12",
+            "present": 10,
+            "total_mins_worked_this_month": 4653,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "Wi2co33eEziFErqk1yyh": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691221854712,
+      "name": "Sandhya Rani",
+      "designation": "",
+      "__collections__": {
+        "attendance": {
+          "2xRhRziLPZjo3iT2Zs0a": {
+            "date": "2023-08-07",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "63gOXzewq6XYZYaZwwQQ": {
+            "date": "2023-08-08",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "SKa1hklc8IZ7trg48Vvl": {
+            "date": "2023-08-05",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "Uqb9gHNxvPY4vYPOEPuj": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "VAutDcJjLjXAu1T7h70J": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "aQ13PDTL857HJSHoJjjn": {
+            "date": "2023-08-10",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "bsUuL37A2P7drpoEirKP": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "sA2uzFWlxKnUNC3cJIOh": {
+            "date": "2023-08-11",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "sAg9MUcLmcWtJGH8Eudw": {
+            "date": "2023-08-09",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "t69VvxbhERH2CesFS5pS": {
+            "date": "2023-08-01",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "vWjJfQhvL7BaK2BtzTqe": {
+            "date": "2023-08-12",
+            "type": "absent",
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "aHjnwmc5QdOpRNga8ia8": {
+            "last_present_on": "2023-08-01",
+            "total_mins_worked_this_month": 0,
+            "leave": 0,
+            "month_year": "08-2023",
+            "present": 0,
+            "absent": 11,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "Xa49mI7k7RB0z8UE4ZKw": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289498/people%20images/o0g1ajzwlbwegvgtmw1k.jpg",
+      "createdTimestamp": 1691221823804,
+      "name": "Kavitha",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "4B7FkWjgV7D00oFBnOy3": {
+            "date": "2023-08-11",
+            "in": 1691731800000,
+            "markedByAdmin": true,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "5ZsVlFIcyNFueDmBYIQN": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "7ka11QdWHA5xJhFcNZq8": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691559000000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "D2peu9J3TdInOxscEBVY": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "JIPs8elQ2DZ7OVeXdPOJ": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691385840000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "QxJFcmSsLPy1fhxNJopo": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127300000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "RtRdzUv8O1pfEeL3mbdM": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213460000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "YKBrj8WFbxGsgIjut844": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691645400000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "e6UFu7rMOzQBGp5DfiGS": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472600000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "gizX8ZaqE3M7BO8FLzU5": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690868100000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "iIrJtRXwmggUW3pu0iYj": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691818920000,
+            "out": 1691847000000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "YA0b9IJnMmDdfrysLqob": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 2,
+            "last_present_on": "2023-08-11",
+            "present": 9,
+            "total_mins_worked_this_month": 4915,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "YXORWmLJM9fNixcTIj9v": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289498/people%20images/o0g1ajzwlbwegvgtmw1k.jpg",
+      "createdTimestamp": 1691221889418,
+      "name": "Saritha",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "91S6cucA9Uie7M1ZBChj": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691731800000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "BeBM0fazZtmkAvPmzq6D": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691043600000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "ErAhIeORbaK45JQh2JpS": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127540000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "SI5lMbNvuj4w0ubb9H9p": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691385300000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "UqpZK7aFVlyYQi9skAGj": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "b2wy8vneLt1nhfoGO7BO": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691213220000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "dhcZizWhLi7b23VxPhmP": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690868580000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "f2giJLc6JmJUKs5rGtfV": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691558640000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "jYf9BOllIMEgBtHeDAFx": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691646000000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "o580y3GY9XyWl6GPPQdp": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691472600000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "q0CkOslNhgoP6x72CKj0": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691818200000,
+            "out": 1691847000000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "laFg3FqzW1tEPUCLKVz4": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 1,
+            "last_present_on": "2023-08-12",
+            "present": 10,
+            "total_mins_worked_this_month": 4742,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "djuVQNIsSWySMEa5uU6W": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289610/people%20images/laqp0mdv025g7i2murud.jpg",
+      "createdTimestamp": 1691221913091,
+      "name": "Shravan",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0Tr4yCfRlRkpz50u7F1m": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691211420000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "CCLZLhziaELv3GhfwItF": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691384700000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "G3Fclv7od56HLBoPHqf2": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "KagwXe5bPclq8ixNGTXg": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691469300000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "MIjpMkfESgHQHVeirmXg": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691556840000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "Z2x58ZLwFtvKOSPjb4Tu": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691039700000,
+            "out": 1691074800000,
+            "__collections__": {}
+          },
+          "hZkdz5a4DdkKIEcs6efM": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690866900000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "mSfUMJErvsMfxnUagUWK": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691642400000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "xe8qzm7HE8OfABEK0QgG": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127900000,
+            "out": 1691161200000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "C5vGW8D8wNzmddzgqr4J": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 1,
+            "last_present_on": "2023-08-10",
+            "present": 8,
+            "total_mins_worked_this_month": 4774,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "hS2T4mqpnbswsoMLDRbw": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289610/people%20images/laqp0mdv025g7i2murud.jpg",
+      "createdTimestamp": 1691221838969,
+      "name": "Deepika",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "Bl3sHfqWfFtiqSZnIYHZ": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691815440000,
+            "out": 1691847000000,
+            "__collections__": {}
+          },
+          "Cd0lSkeVxDF5R5TxKkxS": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691471040000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "HAyWnwk7ylxUtvR8xExU": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691125800000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "Ii3vvfFDf196KHQaz8Cq": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557740000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "NdE2GxG3iFCoQ7b1ctrl": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691038800000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "OJDkF2hOZiU2QY6EgV7B": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691384640000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "OxFQniIM4G93iLVbBq9o": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691211840000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "jgOjiAIO93dzf4nuzoah": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954260000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "tZFNJdn7B1YOcNi5AHCz": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690866240000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "xzetFI22GCe1AqfjTX3G": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691643840000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "y5vqdbqvpBpDuXp87AQw": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691730900000,
+            "out": 1691760600000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "6rQVW9ddHxBqkIgBxBu6": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-12",
+            "present": 11,
+            "total_mins_worked_this_month": 5541,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "iXvI5iqIH4FHef1jrW0r": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691222073678,
+      "name": "Rajesh",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0DiaASQPOe5YtX1RLtUD": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690865100000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "5pamD8Mkd5tikpCRAzBU": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690951500000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "9KnitNNLg6PzKo8411aX": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691470200000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "IgfFsU4FGMQl6OQnnPia": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691556600000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "PFdsLhedhiWgXsZs4dCr": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "out": 1691247600000,
+            "in": 1691211000000,
+            "__collections__": {}
+          },
+          "er4p6Mtoono2LyIwgEyL": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691124600000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "rqo1GdGdENZX5FF5Cp5M": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691383800000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "wD9hoOfvuXfrKvoFlmRl": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691646600000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "wri9PeGhXojxRktYRKVZ": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691037900000,
+            "out": 1691074800000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "yBG29CexiMM4cSzYa6Bv": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-10",
+            "present": 9,
+            "total_mins_worked_this_month": 5355,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "lziCAKZxUOtdCGJOXX6b": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289626/people%20images/tughv970vaw60hut09gf.jpg",
+      "createdTimestamp": 1691221921001,
+      "name": "Yogi",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "40HXfFz3FY5gGzBDJXXd": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691039460000,
+            "out": 1691074800000,
+            "__collections__": {}
+          },
+          "7Fx8MZ7jUSb8SNzBNpCk": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691384940000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "7YvGscL7OOTuJQYHN9LY": {
+            "date": "2023-08-10",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "LGyOBxmDPB3e2F8hUIsh": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691126640000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "WLslYY3Y1K8LQ5nSjicG": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954440000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "oDDLUN4wOkQaxaa0CC2U": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557140000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "os2Nufg3MvSa2N8IjMhh": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691471160000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "p0cy81m9SUp4GEaPpBjM": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691212140000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "sun4XVtnLJDRAGQLuqwB": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690865940000,
+            "out": 1690902000000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "7xOAMnSlAaaIARMIAon5": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-09",
+            "present": 8,
+            "absent": 1,
+            "total_mins_worked_this_month": 4709,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "m4rjji447LshQBXICmyl": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289610/people%20images/laqp0mdv025g7i2murud.jpg",
+      "createdTimestamp": 1691221738691,
+      "name": "Sulochana",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0WXolDxtHkhpjwCy3JQx": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691125080000,
+            "out": 1691155800000,
+            "__collections__": {}
+          },
+          "1vVK371uC9PCaLGRjsIj": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691384520000,
+            "out": 1691415000000,
+            "__collections__": {}
+          },
+          "7bDoTIoLHJUENLuEWpL7": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691470740000,
+            "out": 1691501400000,
+            "__collections__": {}
+          },
+          "C2IGGF850IOIYA6ALaBu": {
+            "date": "2023-08-11",
+            "markedByAdmin": true,
+            "in": 1691735400000,
+            "out": 1691760600000,
+            "__collections__": {}
+          },
+          "Poa7xbUArX9UdpsLO1nL": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690952400000,
+            "out": 1690983000000,
+            "__collections__": {}
+          },
+          "QBn0lEGbxuPvxkMyEgpG": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690865580000,
+            "out": 1690896600000,
+            "__collections__": {}
+          },
+          "U8YuVz8mokOGR5X7R4YO": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691054040000,
+            "out": 1691069400000,
+            "__collections__": {}
+          },
+          "WCnp50OzqCiDHMtiFdKx": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557380000,
+            "out": 1691587800000,
+            "__collections__": {}
+          },
+          "kHI2o9BGTiSD7Bal745T": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691211600000,
+            "out": 1691242200000,
+            "__collections__": {}
+          },
+          "r9NIc8VDGMgoqIsClUim": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691644200000,
+            "out": 1691674200000,
+            "__collections__": {}
+          },
+          "tdxQQdDNzsXpxeapoJ20": {
+            "date": "2023-08-12",
+            "markedByAdmin": true,
+            "in": 1691816400000,
+            "out": 1691847000000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "sR1glbHvJxo0qFj3J3gB": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-12",
+            "present": 11,
+            "total_mins_worked_this_month": 6491,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "o92C4UnbeECa2Ijpmz9q": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691222123444,
+      "name": "Ramesh Babu",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0CRDoCVIJ8kLDFOdWDwm": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "in": 1691038800000,
+            "out": 1691074800000,
+            "__collections__": {}
+          },
+          "1qK9deHxGltlB01IjH8z": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691125500000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "BcYdpbmRF3jaTsbhGDPR": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690866300000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "IIfArClVtz4x7M5dJCnj": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691384400000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "cv19fQvh56cRWt6IbS0n": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691475600000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "cw0jGMEZyt7KkpUJ8dSY": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691212980000,
+            "out": 1691247600000,
+            "__collections__": {}
+          },
+          "mHmARr1R3re0PATacMO1": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690952700000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "ti6xYIccPmICTQodXfIc": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691643600000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "tmTpe7GvHHWOx7U1UFcc": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691557500000,
+            "out": 1691593200000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "ws9BU4exJZEfV6cnnPnE": {
+            "leave": 0,
+            "absent": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-10",
+            "present": 9,
+            "total_mins_worked_this_month": 5277,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "ruaTkz3jjOC1PPbwMxx4": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289474/people%20images/frvvdxis1tqf2lva3e8e.jpg",
+      "createdTimestamp": 1691222066586,
+      "name": "Vivek",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "0qU5Ejx1SFzfO5DjMJIq": {
+            "date": "2023-08-10",
+            "markedByAdmin": true,
+            "in": 1691646000000,
+            "out": 1691679600000,
+            "__collections__": {}
+          },
+          "E1W5BxRLBa6kSUbtlA6K": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691385480000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "N2Rvo4a0JkSUJRTtFZuF": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691473800000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "QsJGrdP3aAPU4hHV3fBN": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691559120000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "bCobZVUjH4OisVd0lYUy": {
+            "date": "2023-08-01",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "dBespd6iahsgHoMH7I7M": {
+            "date": "2023-08-04",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "eJeY9qjdDJVE8xmITj2z": {
+            "date": "2023-08-02",
+            "markedByAdmin": true,
+            "in": 1690954980000,
+            "out": 1690988400000,
+            "__collections__": {}
+          },
+          "mIee7lcb3bhuoEGLd9t4": {
+            "date": "2023-08-03",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "qdqboGte5Lb9t0UIZCM7": {
+            "date": "2023-08-05",
+            "type": "absent",
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "G7aQC8Mny52R764Qm3dy": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "absent": 4,
+            "last_present_on": "2023-08-10",
+            "present": 5,
+            "total_mins_worked_this_month": 2817,
+            "__collections__": {}
+          }
+        }
+      }
+    },
+    "wzR4aZopxNfpdUE7s8rN": {
+      "image": "https://res.cloudinary.com/dywzucf4d/image/upload/v1690289498/people%20images/o0g1ajzwlbwegvgtmw1k.jpg",
+      "createdTimestamp": 1691221905590,
+      "name": "Simon",
+      "designation": "",
+      "active_session_id": false,
+      "__collections__": {
+        "attendance": {
+          "5uZ8UE6wVIqyi9JfPYdN": {
+            "date": "2023-08-09",
+            "markedByAdmin": true,
+            "in": 1691556840000,
+            "out": 1691593200000,
+            "__collections__": {}
+          },
+          "JvK0nOJKlG7PFqhITzH9": {
+            "date": "2023-08-10",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "KkvFBaOtVRSsdwYwkInZ": {
+            "date": "2023-08-04",
+            "markedByAdmin": true,
+            "in": 1691127000000,
+            "out": 1691161200000,
+            "__collections__": {}
+          },
+          "O0FSkiTpEPUNJqyIh3bn": {
+            "date": "2023-08-03",
+            "markedByAdmin": true,
+            "out": 1691074800000,
+            "in": 1691039700000,
+            "__collections__": {}
+          },
+          "RSEsR3jPpu4zSn0sdnRh": {
+            "date": "2023-08-02",
+            "type": "absent",
+            "__collections__": {}
+          },
+          "fx7ugsy4ealuf2FTvIgR": {
+            "date": "2023-08-01",
+            "markedByAdmin": true,
+            "in": 1690866918000,
+            "out": 1690902000000,
+            "__collections__": {}
+          },
+          "haf8yhR1KjNWlM6l4xUW": {
+            "date": "2023-08-07",
+            "markedByAdmin": true,
+            "in": 1691385300000,
+            "out": 1691420400000,
+            "__collections__": {}
+          },
+          "iEzy0bdn5Lyq0x4xcQIs": {
+            "date": "2023-08-08",
+            "markedByAdmin": true,
+            "in": 1691473620000,
+            "out": 1691506800000,
+            "__collections__": {}
+          },
+          "jo7AB4WYbyUHnIVmDxge": {
+            "date": "2023-08-05",
+            "markedByAdmin": true,
+            "in": 1691212500000,
+            "out": 1691247600000,
+            "__collections__": {}
+          }
+        },
+        "data": {
+          "Nm4DZyf5TIzxP4WiKfFn": {
+            "leave": 0,
+            "month_year": "08-2023",
+            "last_present_on": "2023-08-09",
+            "present": 7,
+            "absent": 2,
+            "total_mins_worked_this_month": 4068,
+            "__collections__": {}
+          }
+        }
+      }
+    }
+  }
+}
